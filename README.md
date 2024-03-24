@@ -1,4 +1,4 @@
-<h1 align="center"> </a><a href="https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="55" height="40"/> </a> Statistics for Data Science using Python - by IBM <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
+<h1 align="center"> </a><a href="https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url" target="_blank" rel="noreferrer">  </a> Statistics for Data Science using Python - by IBM  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
 **I am sharing sharing the solved Exercises & Project of Statistics for Data Science using Python course by IBM on Coursera which I have solved into my journey of Data Science.** 
 
