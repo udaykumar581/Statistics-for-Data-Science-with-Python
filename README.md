@@ -37,7 +37,7 @@ After completing this course, you will be able to:
 
 ## Project - Boston Housing Data Analysis using Python  👨‍💻 
 
-**[My IBM Cloud Project Link](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/c1b5b665-7e89-41e6-9aae-d6f184d4245d/view?access_token=d106bb6c980e568aa5a41613f5601f81c9be999faa295fb2f2b61321e2ecbf46)** 🔗
+
 
 ### About Project - Boston Housing Data Analysis using Python
 
