@@ -2,7 +2,6 @@
 
 **I am sharing sharing the solved Exercises & Project of Statistics for Data Science using Python course by IBM on Coursera which I have solved into my journey of Data Science.** 
 
-**Prerequisite:** <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass:, <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑 & <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️ 
 
 ### About this Course
 
@@ -27,37 +26,14 @@ After completing this course, you will be able to:
 
 ## Technologies used ⚙️
 
-* <a href="https://github.com/mrankitgupta/Python-Lessons">Python</a> <a href="https://github.com/mrankitgupta/Python-Lessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
-
-* <a href="https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url">Statistics</a><a href="https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
-
-##### Python Libraries :  <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> | <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> | <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> | <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
+*Python
+*Statistics
 
 
-<h2 align="left">Certifications 📜 🎓 ✔️</h2>
-
-- [Data Analysis with Python](https://github.com/mrankitgupta) - by IBM
- 
-- [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
-
-- [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle
- 
-- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning 
-- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
-
-- [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
 
 
-## Exercises - [Statistics for Data Science using Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
 
-|**Sr.No. 🔢**|**Exercises 👨‍💻**| **Links :link:**|
-|------|--------------------|---------------------|
-|1| Introduction to probability distribution | [Exercise 1](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/1.%20Introduction_to_probability_distribution.ipynb) |
-|2| Visualizing Data | [Exercise 2](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/2.%20Visualizing_Data.ipynb) |
-|3| Descriptive Stats | [Exercise 3](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/3.%20Descriptive_Stats.ipynb) |
-|4| Regression Analysis | [Exercise 4](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/4.%20Regression_Analysis.ipynb) |
-|5| Hypothesis Testing | [Exercise 5](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/5.%20Hypothesis_Testing.ipynb) |
-|6| Statistics for Data Science with Python | [Exercise 6](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/6.%20Statistics%20for%20Data%20Science%20with%20Python.ipynb) |
+|
 
 ## Project - Boston Housing Data Analysis using Python  👨‍💻 
 
@@ -99,21 +75,7 @@ We can see that the input attributes have a mixture of units.
 
 ## Related Projects:question: 👨‍💻 🛰️
 
-<code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
 
-<code>[Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)</code> 📊
-
-<code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
-
-<code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
- 
-<code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
-
-<code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
-
-### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
-
-## For any queries/doubts 🔗 👇 
 
 ### [Gorli Uday Kumar]
 
